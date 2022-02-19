@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(70, 68, 68);
+}
+.container{
+    text-align: center;
+    font-size: 2.5rem;
+    color: blue;
+}
+.dice{
+    display: inline-block;
+    margin: 1px 50px;
+   
+}
